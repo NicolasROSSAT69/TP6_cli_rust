@@ -1,0 +1,10 @@
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/Rust/TP6_cli/TP6_cli_rust/grrs/target/debug/deps/version_check-9aa0558631c3a6ad.rmeta: /Users/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/lib.rs /Users/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/version.rs /Users/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/channel.rs /Users/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/date.rs
+
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/Rust/TP6_cli/TP6_cli_rust/grrs/target/debug/deps/libversion_check-9aa0558631c3a6ad.rlib: /Users/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/lib.rs /Users/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/version.rs /Users/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/channel.rs /Users/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/date.rs
+
+/Users/nicolas/OneDrive - SCIENCES U LYON/COURS SCIENCE U/Master2021-2022/Rust/TP6_cli/TP6_cli_rust/grrs/target/debug/deps/version_check-9aa0558631c3a6ad.d: /Users/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/lib.rs /Users/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/version.rs /Users/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/channel.rs /Users/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/date.rs
+
+/Users/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/lib.rs:
+/Users/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/version.rs:
+/Users/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/channel.rs:
+/Users/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/date.rs:

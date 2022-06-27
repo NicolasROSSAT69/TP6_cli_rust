@@ -1,1 +1,0 @@
-/Users/nicolas/OneDrive\ -\ SCIENCES\ U\ LYON/COURS\ SCIENCE\ U/Master2021-2022/Rust/TP6_cli/TP6_cli_rust/tp6_cli/target/debug/tp6_cli: /Users/nicolas/OneDrive\ -\ SCIENCES\ U\ LYON/COURS\ SCIENCE\ U/Master2021-2022/Rust/TP6_cli/TP6_cli_rust/tp6_cli/src/main.rs

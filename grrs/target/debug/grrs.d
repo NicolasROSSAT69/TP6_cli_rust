@@ -1,0 +1,1 @@
+/Users/nicolas/OneDrive\ -\ SCIENCES\ U\ LYON/COURS\ SCIENCE\ U/Master2021-2022/Rust/TP6_cli/TP6_cli_rust/grrs/target/debug/grrs: /Users/nicolas/OneDrive\ -\ SCIENCES\ U\ LYON/COURS\ SCIENCE\ U/Master2021-2022/Rust/TP6_cli/TP6_cli_rust/grrs/src/main.rs
